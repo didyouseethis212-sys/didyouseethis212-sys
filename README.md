@@ -1,4 +1,4 @@
-# Small file and content services
+# Small business web tools, files and content
 
 I'm Ari on Fiverr. I offer four fixed-scope pilots for small businesses and creators, with free original examples you can inspect before ordering. AI may assist writing, planning or code; outputs are checked against supplied material.
 
@@ -9,23 +9,31 @@ I'm Ari on Fiverr. I offer four fixed-scope pilots for small businesses and crea
 | One flat sheet, up to 100 data rows and 10 columns. Agreed cleanup rules, preserved source and change log. | One selectable-text PDF, up to 5 pages, 500 table rows and 10 columns. XLSX/CSV plus source notes. |
 | [See service & order on Fiverr](https://www.fiverr.com/fghjhbcv/clean-and-organize-excel-csv-data-with-a-documented-change-log) · [Free before/after example](https://github.com/didyouseethis212-sys/small-data-cleanup-examples) | [Send a sample / see service on Fiverr](https://www.fiverr.com/fghjhbcv/convert-selectable-pdf-tables-to-excel-or-csv-with-source-checks) · [Free PDF and workbook](https://github.com/didyouseethis212-sys/small-data-cleanup-examples) |
 
-| YouTube explainer script | B2B content repurposing |
+| Custom quote calculator | B2B content repurposing |
 | --- | --- |
-| ![YouTube scriptwriting](youtube-script.png) | ![B2B content repurposing](b2b-content.png) |
-| **$25 · 3 days · 1 revision** | **$50 · 3 days · 1 revision** |
-| From your English brief up to 1,500 words: one script up to 600 words, 3 titles, one description up to 150 words and source notes. | From your English article/transcript up to 2,000 words: 3 LinkedIn posts, 1 email and 2 short-video scripts, up to 1,000 delivered words total. |
-| [See service & order on Fiverr](https://www.fiverr.com/fghjhbcv/write-a-source-grounded-youtube-explainer-script-with-hooks-and-titles) · [Free script example](script-example.txt) | [See service & order on Fiverr](https://www.fiverr.com/fghjhbcv/repurpose-b2b-content-into-linkedin-posts-emails-and-video-scripts) · [Free content sample](https://github.com/didyouseethis212-sys/b2b-content-repurposing-kit) |
+| ![Custom quote calculator](quote-calculator.png) | ![B2B content repurposing](b2b-content.png) |
+| **$120 · 5 days · 1 revision** | **$50 · 3 days · 1 revision** |
+| One responsive page, one calculation workflow and up to 8 inputs. Your pricing rules, live breakdown, source code and setup guide. | From your English article/transcript up to 2,000 words: 3 LinkedIn posts, 1 email and 2 short-video scripts, up to 1,000 delivered words total. |
+| [See service & order on Fiverr](https://www.fiverr.com/fghjhbcv/build-a-custom-quote-calculator-for-your-small-business) · [Free calculator source](quote-demo/index.html) | [See service & order on Fiverr](https://www.fiverr.com/fghjhbcv/repurpose-b2b-content-into-linkedin-posts-emails-and-video-scripts) · [Free content sample](https://github.com/didyouseethis212-sys/b2b-content-repurposing-kit) |
 
 ## Choose the right pilot
 
 - Messy rows or duplicate records? Start with **Excel/CSV cleanup** and explain what makes a duplicate.
 - A table trapped inside a selectable-text PDF? Send a **de-identified PDF sample on Fiverr** first so I can confirm extractability.
-- Facts that need a spoken narrative? Choose the **YouTube explainer script**.
+- Repeating the same pricing calculation? Try the **custom quote calculator**. Includes a browser-local sample; excludes login, payments, databases, hosting and native apps.
 - An existing article that should become multiple written assets? Choose **B2B repurposing**.
 
 These are deliverable services, not software subscriptions. Content packages cover writing, not posting, video production or channel management. Data packages exclude scans/handwriting, macros, complex merged layouts and unapproved guesses. See each Gig for the complete scope.
 
-## Free script-audit example
+## Try the free quote calculator
+
+Download the files in [quote-demo](quote-demo), keep them together, and open `index.html` in a browser. It is an original fictional design-studio example, not a client result. No API key, signup or payment is required. For clipboard copying use HTTPS or localhost; browser printing is the fallback. The example does not create bookings or collect payments.
+
+Test case: 10 presentation slides ($250), copy polish ($400), source files ($30), then a 25% priority surcharge ($170) = **$850**. These are fictional demonstration prices, not the fee for my development service.
+
+If you want your own pricing rules and branding, [message me on Fiverr](https://www.fiverr.com/s/ae7Pj08) with your formula and three expected results. The fixed pilot is **$120 / 5 days / one revision**, up to 8 inputs and one calculation workflow.
+
+## Free script-audit example (educational archive)
 
 The fictional desk-kit example includes supplied facts, a draft and a lightweight structural checker:
 
