@@ -1,0 +1,35 @@
+{
+  "titles": [
+    "One Tray, One Category: A Simple Desk Reset",
+    "A Small Desk Reset Without Buying More Tech",
+    "Give Your Desk Items a Clear Home"
+  ],
+  "script": "[Hook \u2014 overhead view of a desk]\nIf your desk has become a landing spot for everything, start with one decision: what belongs here?\n\nFor this fictional demonstration, we are using the Plain Desk Kit. It contains a recycled-cardboard tray, two cable clips and six blank labels. You can follow the same routine with items you already have.\n\n[Show the tray]\nFirst, empty the tray. Before putting anything back, choose a single category for it. That might be the small items you reach for during your next work session. Pick a category that makes sense for your desk, rather than trying to store everything in one place.\n\nThe example tray measures 24 by 16 by 4 centimetres. Check the space on your own desk before choosing where it will sit. This demonstration makes no claim about load capacity or water resistance.\n\n[Show two charging cables beside the clips]\nNext, decide where two charging cables should rest, then use the two clips to route them. Chargers, cables and devices are not included in the fictional kit. The point of this step is to give those cables a planned position instead of choosing a new spot each time.\n\n[Write a label]\nFinally, label the tray with the category you chose. The six labels in this example are blank, so the wording is up to you. Use a name that tells you what belongs there.\n\n[Closing shot]\nYour reset is three decisions: one category, a place for two cables, and a label. Try the routine with what you already own, then adjust it to suit the way you use your desk.",
+  "description": "An original fictional desk-organization demonstration: choose a category for a tray, route two cables and add a clear label. The example kit and all specifications are fictional. Use items you already own; no purchase is needed. Chargers, cables and devices are not included in the example kit.",
+  "claim_map": [
+    {
+      "claim": "Kit contents",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "claim": "Dimensions and excluded claims",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "claim": "Routine",
+      "source_ids": [
+        "S3"
+      ]
+    },
+    {
+      "claim": "Accessories excluded",
+      "source_ids": [
+        "S4"
+      ]
+    }
+  ]
+}
