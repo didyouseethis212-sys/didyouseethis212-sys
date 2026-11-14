@@ -14,7 +14,7 @@ I'm Ari on Fiverr. I offer four fixed-scope pilots for small businesses and crea
 | ![Custom quote calculator](quote-calculator.png) | ![B2B content repurposing](b2b-content.png) |
 | **$120 · 5 days · 1 revision** | **$50 · 3 days · 1 revision** |
 | One responsive page, one calculation workflow and up to 8 inputs. Your pricing rules, live breakdown, source code and setup guide. | From your English article/transcript up to 2,000 words: 3 LinkedIn posts, 1 email and 2 short-video scripts, up to 1,000 delivered words total. |
-| [See service & order on Fiverr](https://www.fiverr.com/fghjhbcv/build-a-custom-quote-calculator-for-your-small-business) · [Free calculator source](quote-demo/index.html) | [See service & order on Fiverr](https://www.fiverr.com/fghjhbcv/repurpose-b2b-content-into-linkedin-posts-emails-and-video-scripts) · [Free content sample](https://github.com/didyouseethis212-sys/b2b-content-repurposing-kit) |
+| [See service & order on Fiverr](https://www.fiverr.com/fghjhbcv/build-a-custom-quote-calculator-for-your-small-business) · [Free calculator source](quote-demo.zip) | [See service & order on Fiverr](https://www.fiverr.com/fghjhbcv/repurpose-b2b-content-into-linkedin-posts-emails-and-video-scripts) · [Free content sample](https://github.com/didyouseethis212-sys/b2b-content-repurposing-kit) |
 
 ## Choose the right pilot
 
@@ -27,7 +27,7 @@ These are deliverable services, not software subscriptions. Content packages cov
 
 ## Try the free quote calculator
 
-Download the files in [quote-demo](quote-demo), keep them together, and open `index.html` in a browser. It is an original fictional design-studio example, not a client result. No API key, signup or payment is required. For clipboard copying use HTTPS or localhost; browser printing is the fallback. The example does not create bookings or collect payments.
+Download and unzip [quote-demo.zip](quote-demo.zip), keep the files together, and open `index.html` in a browser. It is an original fictional design-studio example, not a client result. No API key, signup or payment is required. For clipboard copying use HTTPS or localhost; browser printing is the fallback. The example does not create bookings or collect payments.
 
 Test case: 10 presentation slides ($250), copy polish ($400), source files ($30), then a 25% priority surcharge ($170) = **$850**. These are fictional demonstration prices, not the fee for my development service.
 
