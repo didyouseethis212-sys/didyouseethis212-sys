@@ -1,0 +1,14 @@
+QUOTE CALCULATOR BRIEF
+Reply on Fiverr with non-confidential information only.
+
+1. What service are customers pricing?
+2. List input fields (maximum 8), type, allowed range and default.
+3. Explain the formula and what each percentage applies to.
+4. Currency and rounding rule, including a rounding example.
+5. Three expected input/output examples, including a boundary.
+6. Required labels, colors and assets you have permission to use.
+7. Existing website platform if relevant. Hosting and integration are excluded.
+8. Confirm rights to share the de-identified material and acknowledge AI-assisted development.
+
+Included: one responsive page, one calculation flow, validation, breakdown, copy, browser print/PDF, HTML/CSS/JS source and guide. $120 / 5 days / one revision within agreed scope.
+Excluded: login, database, payment, booking, external API, native app, hosting/domain and ongoing maintenance.

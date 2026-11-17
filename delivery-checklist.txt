@@ -1,0 +1,13 @@
+FULFILLMENT ACCEPTANCE CHECK
+[ ] Verify real paid Fiverr order, ID, Gig and deadline.
+[ ] Confirm rights, AI acknowledgement and de-identified inputs.
+[ ] Agree formula, input limits, currency and rounding.
+[ ] Compare all 3 customer expected examples.
+[ ] Test min/max, empty, negative, fractional and invalid inputs.
+[ ] Confirm invalid inputs clear stale totals and block copy/print.
+[ ] Check itemized sum, percentage base and rounding.
+[ ] Check narrow mobile layout, labels and keyboard use.
+[ ] Check copied output contains actual line breaks.
+[ ] Check browser print output manually; do not claim a pass without checking.
+[ ] Package this order's correct source, guide and test results.
+[ ] Deliver only on the corresponding official Fiverr order.
