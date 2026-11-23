@@ -48,3 +48,14 @@ It checks word limits, title count and source-ID existence. **It does not verify
 Tell me your goal, chosen service and input type in the [Fiverr inbox](https://www.fiverr.com/fghjhbcv). Provide only authorized material with personal and confidential information removed. No account credentials are needed. All communication, orders, payment and delivery stay on Fiverr. No views, rankings, sales or revenue are guaranteed.
 
 Disclosure: I operate the linked Fiverr services. You may inspect and use the free examples without purchasing. AI helped create this page and the examples.
+## Before you order: copy a short brief
+Choose the matching pilot above and send the relevant brief through Fiverr. A preferred deadline helps confirm fit; the listed delivery time and scope still apply. Remove private details and share only material you have permission to use.
+### PDF tables — sample first
+> I need PDF table conversion. My PDF has __ pages, about __ table rows and __ columns. The text is selectable: yes/no. I prefer XLSX/CSV. My preferred deadline is __. I can share an authorized, de-identified sample. Please confirm whether it fits your listed scope before I order.
+### Excel / CSV — agree on cleanup rules
+> I need cleanup of one XLSX/CSV sheet with __ rows and __ columns. Approved changes: __. Duplicate key/rule: __ (or do not delete duplicates). Identifier columns with leading zeros: __. Preferred deadline: __. I can share an authorized, de-identified sample.
+### B2B — one source, six drafts
+> I have an English source of about __ words and the right to use it. Audience: __. Tone: __. CTA: __. Preferred deadline: __. The source is de-identified and I agree to AI-assisted processing. Please confirm the listed six-draft package fits.
+### Quote calculator — bring three expected totals
+> I need one web quote calculator with __ inputs. Formula: __. Currency and rounding: __. Input limits: __. Three input/expected-total examples: __. Preferred deadline: __. I have rights to the de-identified materials and agree to AI-assisted development. Please confirm fit before I order.
+All messages, orders, payments and deliveries stay on Fiverr. Free examples are fictional demonstrations, not client results. I operate the linked services; AI assisted this guide.
